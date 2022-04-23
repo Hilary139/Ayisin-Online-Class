@@ -1,0 +1,245 @@
+<!--MUSIC session-->
+<!--NEW PROGRAMS HERE -->
+
+<div class="card-card">
+    <div class="card">
+      <img src="assets/images/MusicBe.jpg" alt="#" style="width:100%">
+      <h1>MUSIC CLASS</h1>
+      <!--first session for web dev-->
+      <h2 style= "font-size: 19px;"> NEW SESSION (Amature) </h2>
+     <!-- <p>TIME: 2:30PM - 3:30PM</p> -->
+     <p>TIME: 2Hours</p>
+      <p>DESCRIPTION: 1 Month Lesson For Amature Course (Twice A Week). </p>
+      <p>-Music Theory<br>
+         -Definitions, Scales And Cords<br>
+         -Introduction To DAW (FL STUDIO) <br>
+         -Four Free Music Kit (Starter) </p>
+      <p>Register Now And Become Confident In Music Production </p>
+      <p>MODE OF LESSON: Physical</p>
+      <p>PRICE: N35,200</p>
+      <p><button><a href ="https://flutterwave.com/pay/wghvr0adxtcy">PAY NOW </a></button></p>
+     <hr>
+  
+  
+     <div class="single-services">
+          <div class="container">
+            <div class="row" id="tabs">
+              <div class="col-md-4">
+                <ul>
+                  <li><a href='#tabs-1'>WEBSITE DEVELOPMENT <i class="fa fa-angle-right"></i></a></li>
+                  <li><a href='#tabs-2'>WEBSITE DESIGNING <i class="fa fa-angle-right"></i></a></li>
+                  <li><a href='#tabs-3'> LEARN PYTHON PROGRAMMING (FOR BEGINNERS) <i class="fa fa-angle-right"></i></a></li>
+                  <li><a href='#tabs-4'>WEBUILD SERVICES <i class="fa fa-angle-right"></i></a></li>
+                </ul>
+              </div>
+              <div class="col-md-8">
+                <section class='tabs-content'>
+                  <article id='tabs-1'>
+                    <img src="assets/images/single_service_01.jpg" alt="">
+                    <h4>WEBSITE DEVELOPMENT</h4>
+                    <p>Enrolling In Our Website Development Program Will Give You Everything You Need To Start Building Amazing Websites For Clients And Personal Uses. You Can As Well Get A Job As A Web Developer.
+                      <span>TIP: Build Projects As You Learn.. </span>
+                    <br><br>THINGS YOU WILL LEARN</p> <br>
+                    <p>1. Introduction To Website Development</p>
+                    <p>2. Introduction to HTML Programming </p>
+                    <p>3. Introduction To CSS Programming</p>
+                    <p>4. Introduction To JAVASCRIPT Programming</p>
+                    <P>BONUS: 1.  Introduction To Web Frameworks</P>
+                    <p>BONUS: 2.  Learn Version Control (GIT AND GITHUB)</p>
+                    <p>BONUS: 3. Build A Simple Project To Complete The Program.</p> <br>
+                      <a href="register.html" class="filled-button">Register Now</a>
+                  </article>
+    
+                  <article id='tabs-2'>
+                    <img src="assets/images/single_service_02.jpg" alt="">
+                    <h4>WEBSITE DESIGNING</h4>
+                    <p>Enrolling In Our Website Designing Program, You Will Learn Everything You Need To Concerning Website And Web App Designing.
+                      <span>TIP: Build Projects As You Learn.. </span>
+                    <br><br>THINGS YOU WILL LEARN</p> <br>
+                    <p>1. Introduction To Website Designing</p>
+                    <p>2. Introduction to Website Designing Tools</p> 
+                    <p>3. Introduction to Designing Concepts</p>
+                    <p>BONUS: 1. Build Several Projects To Add In Your Resume.</p> <br>
+                    <a href="register.html" class="filled-button">Register Now</a>
+                  </article>
+                  <article id='tabs-3'>
+                    <img src="assets/images/single_service_03.jpg" alt="">
+                    <h4>PYTHON PROGRAMMING (For Beginners)</h4>
+                    <p>In This Program You Will Learn Everything About Python Programming And Start Making Projects Using Python. 
+                    <br><br>THINGS YOU WILL LEARN</p> <br>
+                    <p>1. Introduction To Python Programming </p>
+                    <p>2. Areas (Fields) In Python Programming</p>
+                    <p>3. Introduction To Python Frameworks And Libraries</p>
+                    <p>4. programming With Python (Part1 And Part2)</p>
+                    <p>5. Version Control (GIT AND GITHUB)</p>
+                    <p>BONUS: 1. Python Projects </p> <br>
+                    <a href="register.html" class="filled-button">Register Now</a>
+                  </article>
+                  <article id='tabs-4'>
+                    <img src="assets/images/single_service_04.jpg" alt="">
+                    <h4>AYISIN SERVICES</h4>
+                    <p>We Help Your Business Build Responsive Websites To Reach More Customers Online. ALSO: Posters, Fliers etc For Your Business. Click The Button Below To Learn More.
+                    <br><br>WHAT WE DO</p> <br><br>
+                    <p>1. BUSINESS BROCHURES WEBSITES</p>
+                    <P>2. E-COMMERCE WEBSITS</P>
+                    <P>3. WORDPRESS AND SHOPIFY WEBSITES</P>
+                    <P>4. INVESTMENT WEBSITES</P>
+                    <P>ETC</P><br>
+                    <p>We Also Build POSTERS, FLIERS, LOGOS For Your Business.</p>
+                    <em>TAKE ADVANTAGE OF NEW TECHNOLOGY!!</em>
+                    <P>FOR MORE ENQUIRES!</p>
+                    <P><b>EMAIL: webuildwebsites45@gmail.com </b></P>  
+                    <p><b>CALL: +2349071265946 & +2348169527215 </b></p>  
+                  </article>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+  
+  
+     <div class="card-card">
+      <div class="card">
+        <img src="assets/images/MusicAd.jpg" alt="#" style="width:100%">
+        <h1>MUSIC CLASS</h1>
+        <!--first session for web dev-->
+        <h2 style= "font-size: 19px;"> NEW SESSION (Advanced) </h2>
+       <!-- <p>TIME: 2:30PM - 3:30PM</p> -->
+       <p>TIME: 2Hours</p>
+        <p>DESCRIPTION: 1 Month Lesson For Advanced Course (Three Times A Week). </p>
+        <p>-Music Theory<br>
+           -Definitions, Scales, Cords, Terminolgoies And Progression <br>
+           -Introduction To DAW (FL STUDIO, LOGIC PRO AND ONBASE) <br>
+           -Ten Free Music Kit (Starter) <br>
+           -Introduction To Sound Design And Engineering <br>
+           - Understanding Reverb, Echoes And Delays
+          </p>
+        <p>Register Now And Become Confident In Music Production </p>
+        <p>MODE OF LESSON: Physical</p>
+        <p>PRICE: N65,200</p>
+        <p><button><a href ="https://flutterwave.com/pay/4r8almzriop9">PAY NOW </a></button></p>
+       <hr>
+  
+  
+  <!--NEW PROGRAMS HERE -->
+  
+  <div class="card-card">
+    <div class="card">
+      <img src="assets/images/vbNew.jpg" alt="#" style="width:100%">
+      <h1>VISUAL BASIC PROGRAMMING</h1>
+      <!--first session for web dev-->
+      <h2 style= "font-size: 19px;"> NEW SESSION </h2>
+     <!-- <p>TIME: 2:30PM - 3:30PM</p> -->
+     <p>TIME: 2Hours</p>
+      <p>DESCRIPTION: Seven Days Lesson For Full Course. You Will Learn The Fundamentals Of Visual Basic And Start Making Projects.</p>
+      <p>Register Now And Become Confident Visual Basic Developer </p>
+      <p>MODE OF LESSON: Virtual</p>
+      <p>PRICE: N15,200</p>
+      <p><button><a href ="https://flutterwave.com/pay/xtpquq7ihyeh">PAY NOW </a></button></p>
+     <hr>
+  
+  
+  <!--first card -->
+  <div class="card-card">
+  <div class="card">
+    <img src="assets/images/web-dev.jpg" alt="#" style="width:100%">
+    <h1>WEBSITE DEVELOPMENT</h1>
+    <!--first session for web dev-->
+    <h2 style= "font-size: 19px;">FIRST SESSION </h2>
+   <!-- <p>TIME: 2:30PM - 3:30PM</p> -->
+   <p>TIME: 2Hours</p>
+    <p>DESCRIPTION: Seven Days Lesson For Full Course With Bonus (Mon - Sun)</p>
+    <p>MODE OF LESSON: Virtual</p>
+    <p>PRICE: N10,200</p>
+    <p><button><a href ="https://flutterwave.com/pay/wp9oukpmd80e">PAY NOW </a></button></p>
+   <hr>
+  
+   <!-- second session for web dev -->
+   <h2 style= "font-size: 19px;">SECOND SESSION </h2>
+   <!-- <p>TIME: 3:30PM - 4:30PM</p> -->
+   <p>TIME: 1Hr 20Mins</p>
+   <p>DESCRIPTION: Five Days Lesson Without Bonus (Fri - Sun)</p>
+   <p>MODE OF LESSON: Virtual</p>
+   <p>PRICE: N5,200</p>
+   <p><button><a href ="https://flutterwave.com/pay/nesncfpi7eze">PAY NOW </a></button></p>
+  </div>
+  </div>
+  
+  <!--second card-->
+  <br>
+    <div class="card">
+      <img src="assets/images/web-design.jpg" alt="#" style="width:100%" >
+      <h1>WEBSITE DESIGNING</h1>
+      <!--first session for web dev-->
+    <h2 style= "font-size: 19px;">FIRST SESSION </h2>
+   <!-- <p>TIME: 2:30PM - 3:30PM</p> -->
+   <p>TIME: 2Hours</p>
+    <p>DESCRIPTION: Five Days Lesson Full Course With Bonus (Mon - Fri)</p>
+    <p>MODE OF LESSON: Virtual</p>
+    <p>PRICE: N5,200</p>
+    <p><button><a href ="https://flutterwave.com/pay/geh6kujlgqaw">PAY NOW </a></button></p>
+   <hr>
+  
+    <!-- second session for web dev -->
+    <h2 style= "font-size: 19px;">SECOND SESSION </h2>
+    <!-- <p>TIME: 4:30PM - 5:00PM</p> -->
+    <P>TIME: 1Hour </P>
+    <p>DESCRIPTION: One Day Session (Web Design Talks) (Sat Only)</p>
+    <p>MODE OF LESSON: Virtual</p>
+    <p>PRICE: N1,200</p>
+    <p><button><a href ="https://flutterwave.com/pay/fc3ic73yzy0l">PAY NOW </a></button></p>
+  
+    </div>
+  <br>
+  <br>
+    <!--third card-->
+  
+      <div class="card">
+        <img src="assets/images/single_service_03.jpg" alt="#" style="width:100%">
+        <h1>PYTHON PROGRAMMING</h1>
+         <!--first session for web dev-->
+    <h2 style= "font-size: 19px;">FIRST SESSION </h2>
+   <!-- <p>TIME: 2:30PM - 3:00PM</p> -->
+   <p>TIME: 2Hours</p>
+    <p>DESCRIPTION: Seven Days Lesson Full Course (Mon - Sun)</p>
+    <p>MODE OF LESSON: Virtual </p>
+    <p>PRICE: N8,200</p>
+    <p><button><a href ="https://flutterwave.com/pay/xmfpkzs796iq">PAY NOW </a></button></p>
+   <hr>
+  
+  <!-- Second session for web dev -->
+  <h2 style= "font-size: 19px;">SECOND SESSION </h2>
+  <!-- <p>TIME: 4:30PM - 5:00PM</p> -->
+  <p>TIME: 1Hr 20Mins</p>
+  <p>DESCRIPTION: Five Days Lesson Without Bonus </p>
+  <p>MODE OF LESSON: Virtual</p>
+  <p>PRICE: N5,200</p>
+  <p><button><a href ="https://flutterwave.com/pay/0qfgukcpwzrj">PAY NOW </a></button></p>
+   <hr>
+  
+    <!-- third session for web dev -->
+    <h2 style= "font-size: 19px;">THIRD SESSION </h2>
+   <!-- <p>TIME: 4:30PM - 5:00PM</p> -->
+   <p>TIME: 1Hour</p>
+    <p>DESCRIPTION: One Day Session (Python Talks) (Sun Only)</p>
+    <p>MODE OF LESSON: Virtual </p>
+    <p>PRICE: N1,200</p>
+    <p><button><a href ="https://flutterwave.com/pay/6vgz3k4cqxce">PAY NOW </a></button></p>
+  
+      </div>
+  <br> <br> <br>
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h5 class="card-title">Complete Course</h5>
+          <p class="card-text">If You Wish To Complete A Program You Started But Could Not Finish It, Click Here Now!</p>
+        <!--  <h6 class="card-subtitle mb-2 text-muted"></h6> -->
+          <p><button><a href ="https://flutterwave.com/pay/ggv6lnahmcyp">CONTINUE NOW </a></button></p>
+        </div>
+      </div>
+  </div>
+  
+    </body> 
+  
+  <br>
+  
